@@ -1,0 +1,2 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Game Engine Team\Game Engine TeamContent\obj\x86\Debug\Game Engine TeamContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine TeamContent\obj\x86\Debug\Game Engine TeamContent.contentprojResolveAssemblyReference.cache

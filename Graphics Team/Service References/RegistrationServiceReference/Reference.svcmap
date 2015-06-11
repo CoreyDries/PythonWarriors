@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4266f55b-e77e-4840-8aaf-0d531e9097b6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://techproprojects.bcit.ca:6363/registerservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RegisterService1.wsdl" MetadataType="Wsdl" ID="050b88a7-8021-4b77-b79b-1a19f16cd26a" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/RegisterService.svc?wsdl" />
+    <MetadataFile FileName="RegisterService1.disco" MetadataType="Disco" ID="58ab9b4a-9b61-4ebe-91e7-a07e800d12b5" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/RegisterService.svc?disco" />
+    <MetadataFile FileName="RegisterService2.xsd" MetadataType="Schema" ID="0ffe68e1-e7ed-4177-9007-6f0873c9fa09" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/RegisterService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RegisterService21.xsd" MetadataType="Schema" ID="e26bfbd8-ced4-485b-8b76-a09c4fcddd1f" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/RegisterService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

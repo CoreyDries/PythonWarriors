@@ -1,0 +1,10 @@
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Release\Graphics Team.exe.config
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Release\Graphics Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Release\Graphics Team.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Release\Graphics Team.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Release\Graphics_Team.Properties.Resources.resources
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Release\Graphics Team.csproj.GenerateResource.Cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Release\Graphics Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Release\Graphics Team.pdb

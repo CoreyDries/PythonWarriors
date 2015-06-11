@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\bin\Debug\Server Team.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\bin\Debug\Server Team.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\bin\Debug\Server Team.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\obj\Debug\Server Team.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\obj\Debug\Server Team.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Server Team\obj\Debug\Server Team.pdb

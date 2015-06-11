@@ -1,0 +1,2210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Music\Battle.mp3</Source>
+      <Name>Music\Battle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Battle.xnb</Output>
+      <Extra>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Battle.wma</Extra>
+      <Time>2014-11-25T17:53:00.5240279-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menus.mp3</Source>
+      <Name>Music\Menus</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Menus.xnb</Output>
+      <Extra>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Menus.wma</Extra>
+      <Time>2014-11-25T11:35:23.1986151-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Victory.mp3</Source>
+      <Name>Music\Victory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Victory.xnb</Output>
+      <Extra>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Music\Victory.wma</Extra>
+      <Time>2014-12-01T08:56:41.5212014-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MainMenu.jpg</Source>
+      <Name>Backgrounds\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Backgrounds\MainMenu.xnb</Output>
+      <Time>2014-11-05T20:11:19.8720451-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Aquatic0.png</Source>
+      <Name>Sprites\Characters\Aquatic0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Aquatic0.xnb</Output>
+      <Time>2014-11-05T20:11:19.4272766-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Aquatic1.png</Source>
+      <Name>Sprites\Characters\Aquatic1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Aquatic1.xnb</Output>
+      <Time>2014-11-05T20:11:19.4826891-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Avian0.png</Source>
+      <Name>Sprites\Characters\Avian0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Avian0.xnb</Output>
+      <Time>2014-11-05T20:11:19.6248406-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Avian1.png</Source>
+      <Name>Sprites\Characters\Avian1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Avian1.xnb</Output>
+      <Time>2014-11-05T20:11:19.5878156-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Cat0.png</Source>
+      <Name>Sprites\Characters\Cat0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Cat0.xnb</Output>
+      <Time>2014-11-05T20:11:19.6078345-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Cat1.png</Source>
+      <Name>Sprites\Characters\Cat1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Cat1.xnb</Output>
+      <Time>2014-11-05T20:11:19.6858853-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Demon0.png</Source>
+      <Name>Sprites\Characters\Demon0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Demon0.xnb</Output>
+      <Time>2014-11-05T20:11:19.7078994-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Demon1.png</Source>
+      <Name>Sprites\Characters\Demon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Demon1.xnb</Output>
+      <Time>2014-11-05T20:11:19.7179037-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dog0.png</Source>
+      <Name>Sprites\Characters\Dog0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Dog0.xnb</Output>
+      <Time>2014-11-05T20:11:19.7088968-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dog1.png</Source>
+      <Name>Sprites\Characters\Dog1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Dog1.xnb</Output>
+      <Time>2014-11-05T20:11:19.7469216-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Elemental0.png</Source>
+      <Name>Sprites\Characters\Elemental0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Elemental0.xnb</Output>
+      <Time>2014-11-05T20:11:19.752926-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Elemental1.png</Source>
+      <Name>Sprites\Characters\Elemental1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Elemental1.xnb</Output>
+      <Time>2014-11-05T20:11:19.7539262-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Humanoid0.png</Source>
+      <Name>Sprites\Characters\Humanoid0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Humanoid0.xnb</Output>
+      <Time>2014-11-05T20:11:19.8980628-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Humanoid1.png</Source>
+      <Name>Sprites\Characters\Humanoid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Humanoid1.xnb</Output>
+      <Time>2014-11-05T20:11:19.8430263-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Misc0.png</Source>
+      <Name>Sprites\Characters\Misc0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Misc0.xnb</Output>
+      <Time>2014-11-05T20:11:19.832019-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Misc1.png</Source>
+      <Name>Sprites\Characters\Misc1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Misc1.xnb</Output>
+      <Time>2014-11-05T20:11:19.844027-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Pest0.png</Source>
+      <Name>Sprites\Characters\Pest0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Pest0.xnb</Output>
+      <Time>2014-11-05T20:11:19.8860544-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Pest1.png</Source>
+      <Name>Sprites\Characters\Pest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Pest1.xnb</Output>
+      <Time>2014-11-05T20:11:19.8890564-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Plant0.png</Source>
+      <Name>Sprites\Characters\Plant0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Plant0.xnb</Output>
+      <Time>2014-11-05T20:11:19.8880557-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Plant1.png</Source>
+      <Name>Sprites\Characters\Plant1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Plant1.xnb</Output>
+      <Time>2014-11-05T20:11:20.3863861-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Player0.png</Source>
+      <Name>Sprites\Characters\Player0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Player0.xnb</Output>
+      <Time>2014-11-05T20:11:19.9721114-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Player1.png</Source>
+      <Name>Sprites\Characters\Player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Player1.xnb</Output>
+      <Time>2014-11-05T20:11:19.9711145-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Quadraped0.png</Source>
+      <Name>Sprites\Characters\Quadraped0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Quadraped0.xnb</Output>
+      <Time>2014-11-05T20:11:19.997128-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Quadraped1.png</Source>
+      <Name>Sprites\Characters\Quadraped1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Quadraped1.xnb</Output>
+      <Time>2014-11-05T20:11:20.0601731-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Reptile0.png</Source>
+      <Name>Sprites\Characters\Reptile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Reptile0.xnb</Output>
+      <Time>2014-11-05T20:11:20.0141393-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Reptile1.png</Source>
+      <Name>Sprites\Characters\Reptile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Reptile1.xnb</Output>
+      <Time>2014-11-05T20:11:20.0211491-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Rodent0.png</Source>
+      <Name>Sprites\Characters\Rodent0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Rodent0.xnb</Output>
+      <Time>2014-11-05T20:11:20.0281486-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Rodent1.png</Source>
+      <Name>Sprites\Characters\Rodent1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Rodent1.xnb</Output>
+      <Time>2014-11-05T20:11:20.0901897-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Slime0.png</Source>
+      <Name>Sprites\Characters\Slime0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Slime0.xnb</Output>
+      <Time>2014-11-05T20:11:20.1182083-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Slime1.png</Source>
+      <Name>Sprites\Characters\Slime1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Slime1.xnb</Output>
+      <Time>2014-11-05T20:11:20.1222114-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Undead0.png</Source>
+      <Name>Sprites\Characters\Undead0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Undead0.xnb</Output>
+      <Time>2014-11-05T20:11:20.3923905-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Undead1.png</Source>
+      <Name>Sprites\Characters\Undead1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Characters\Undead1.xnb</Output>
+      <Time>2014-11-05T20:11:20.1402266-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Engineer.png</Source>
+      <Name>Sprites\Commissions\Engineer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Engineer.xnb</Output>
+      <Time>2014-11-05T20:11:20.1612368-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Mage.png</Source>
+      <Name>Sprites\Commissions\Mage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Mage.xnb</Output>
+      <Time>2014-11-05T20:11:20.1842521-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Paladin.png</Source>
+      <Name>Sprites\Commissions\Paladin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Paladin.xnb</Output>
+      <Time>2014-11-05T20:11:20.2102744-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Rogue.png</Source>
+      <Name>Sprites\Commissions\Rogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Rogue.xnb</Output>
+      <Time>2014-11-05T20:11:20.2502963-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Template.png</Source>
+      <Name>Sprites\Commissions\Template</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Template.xnb</Output>
+      <Time>2014-11-05T20:11:20.2492952-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Commissions\Warrior.png</Source>
+      <Name>Sprites\Commissions\Warrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Commissions\Warrior.xnb</Output>
+      <Time>2014-11-05T20:11:20.2653081-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\GUI0.png</Source>
+      <Name>Sprites\GUI\GUI0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\GUI\GUI0.xnb</Output>
+      <Time>2014-11-05T20:11:20.2843193-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\GUI1.png</Source>
+      <Name>Sprites\GUI\GUI1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\GUI\GUI1.xnb</Output>
+      <Time>2014-11-05T20:11:20.3043317-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Ammo.png</Source>
+      <Name>Sprites\Items\Ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Ammo.xnb</Output>
+      <Time>2014-11-05T20:11:20.3273521-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Amulet.png</Source>
+      <Name>Sprites\Items\Amulet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Amulet.xnb</Output>
+      <Time>2014-11-05T20:11:20.3683746-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Armor.png</Source>
+      <Name>Sprites\Items\Armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Armor.xnb</Output>
+      <Time>2014-11-05T20:11:20.3793828-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Book.png</Source>
+      <Name>Sprites\Items\Book</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Book.xnb</Output>
+      <Time>2014-11-05T20:11:20.3933912-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Boot.png</Source>
+      <Name>Sprites\Items\Boot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Boot.xnb</Output>
+      <Time>2014-11-05T20:11:20.4114026-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Chest0.png</Source>
+      <Name>Sprites\Items\Chest0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Chest0.xnb</Output>
+      <Time>2014-11-05T20:11:20.5244781-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Chest1.png</Source>
+      <Name>Sprites\Items\Chest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Chest1.xnb</Output>
+      <Time>2014-11-05T20:11:20.4504285-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Flesh.png</Source>
+      <Name>Sprites\Items\Flesh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Flesh.xnb</Output>
+      <Time>2014-11-05T20:11:20.4904555-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Food.png</Source>
+      <Name>Sprites\Items\Food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Food.xnb</Output>
+      <Time>2014-11-05T20:11:20.5034646-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Glove.png</Source>
+      <Name>Sprites\Items\Glove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Glove.xnb</Output>
+      <Time>2014-11-05T20:11:20.5004622-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Hat.png</Source>
+      <Name>Sprites\Items\Hat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Hat.xnb</Output>
+      <Time>2014-11-05T20:11:20.5104735-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Key.png</Source>
+      <Name>Sprites\Items\Key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Key.xnb</Output>
+      <Time>2014-11-05T20:11:20.5234769-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Light.png</Source>
+      <Name>Sprites\Items\Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Light.xnb</Output>
+      <Time>2014-11-05T20:11:20.5434902-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\LongWep.png</Source>
+      <Name>Sprites\Items\LongWep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\LongWep.xnb</Output>
+      <Time>2014-11-05T20:11:20.5765121-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\MedWep.png</Source>
+      <Name>Sprites\Items\MedWep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\MedWep.xnb</Output>
+      <Time>2014-11-05T20:11:20.6155436-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Money.png</Source>
+      <Name>Sprites\Items\Money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Money.xnb</Output>
+      <Time>2014-11-05T20:11:20.6315486-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Music.png</Source>
+      <Name>Sprites\Items\Music</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Music.xnb</Output>
+      <Time>2014-11-05T20:11:20.6305507-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Potion.png</Source>
+      <Name>Sprites\Items\Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Potion.xnb</Output>
+      <Time>2014-11-05T20:11:20.6305507-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Ring.png</Source>
+      <Name>Sprites\Items\Ring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Ring.xnb</Output>
+      <Time>2014-11-05T20:11:20.6495605-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Rock.png</Source>
+      <Name>Sprites\Items\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Rock.xnb</Output>
+      <Time>2014-11-05T20:11:20.648565-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Scroll.png</Source>
+      <Name>Sprites\Items\Scroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Scroll.xnb</Output>
+      <Time>2014-11-05T20:11:20.7186105-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Shield.png</Source>
+      <Name>Sprites\Items\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Shield.xnb</Output>
+      <Time>2014-11-05T20:11:20.7236101-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\ShortWep.png</Source>
+      <Name>Sprites\Items\ShortWep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\ShortWep.xnb</Output>
+      <Time>2014-11-05T20:11:20.7456251-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Tool.png</Source>
+      <Name>Sprites\Items\Tool</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Tool.xnb</Output>
+      <Time>2014-11-05T20:11:20.7656384-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Wand.png</Source>
+      <Name>Sprites\Items\Wand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Items\Wand.xnb</Output>
+      <Time>2014-11-05T20:11:20.7606346-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Decor0.png</Source>
+      <Name>Sprites\Objects\Decor0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Decor0.xnb</Output>
+      <Time>2014-11-05T20:11:20.7616353-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Decor1.png</Source>
+      <Name>Sprites\Objects\Decor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Decor1.xnb</Output>
+      <Time>2014-11-05T20:11:20.7786489-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Door0.png</Source>
+      <Name>Sprites\Objects\Door0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Door0.xnb</Output>
+      <Time>2014-11-05T20:11:20.7726426-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Door1.png</Source>
+      <Name>Sprites\Objects\Door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Door1.xnb</Output>
+      <Time>2014-11-05T20:11:20.8396917-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Effect0.png</Source>
+      <Name>Sprites\Objects\Effect0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Effect0.xnb</Output>
+      <Time>2014-11-05T20:11:20.8526975-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Effect1.png</Source>
+      <Name>Sprites\Objects\Effect1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Effect1.xnb</Output>
+      <Time>2014-11-05T20:11:20.8977255-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Fence.png</Source>
+      <Name>Sprites\Objects\Fence</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Fence.xnb</Output>
+      <Time>2014-11-05T20:11:20.8987262-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Floor.png</Source>
+      <Name>Sprites\Objects\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Floor.xnb</Output>
+      <Time>2014-11-23T15:53:27.8291225-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Ground0.png</Source>
+      <Name>Sprites\Objects\Ground0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Ground0.xnb</Output>
+      <Time>2014-11-05T20:11:20.9097335-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Ground1.png</Source>
+      <Name>Sprites\Objects\Ground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Ground1.xnb</Output>
+      <Time>2014-11-05T20:11:20.9117348-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Hill0.png</Source>
+      <Name>Sprites\Objects\Hill0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Hill0.xnb</Output>
+      <Time>2014-11-05T20:11:20.9107341-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Hill1.png</Source>
+      <Name>Sprites\Objects\Hill1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Hill1.xnb</Output>
+      <Time>2014-11-05T20:11:20.9647737-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Map0.png</Source>
+      <Name>Sprites\Objects\Map0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Map0.xnb</Output>
+      <Time>2014-11-05T20:11:20.9767807-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Map1.png</Source>
+      <Name>Sprites\Objects\Map1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Map1.xnb</Output>
+      <Time>2014-11-05T20:11:21.0238142-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Ore0.png</Source>
+      <Name>Sprites\Objects\Ore0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Ore0.xnb</Output>
+      <Time>2014-11-05T20:11:21.0518272-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Ore1.png</Source>
+      <Name>Sprites\Objects\Ore1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Ore1.xnb</Output>
+      <Time>2014-11-05T20:11:21.0248098-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Pit0.png</Source>
+      <Name>Sprites\Objects\Pit0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Pit0.xnb</Output>
+      <Time>2014-11-12T14:08:26.7841032-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Pit1.png</Source>
+      <Name>Sprites\Objects\Pit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Pit1.xnb</Output>
+      <Time>2014-11-12T14:08:17.4214961-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Tile.png</Source>
+      <Name>Sprites\Objects\Tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Tile.xnb</Output>
+      <Time>2014-11-05T20:11:21.053829-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Trap.png</Source>
+      <Name>Sprites\Objects\Trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Trap.xnb</Output>
+      <Time>2014-11-05T20:11:21.0898575-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Tree0.png</Source>
+      <Name>Sprites\Objects\Tree0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Tree0.xnb</Output>
+      <Time>2014-11-05T20:11:21.1108663-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Tree1.png</Source>
+      <Name>Sprites\Objects\Tree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Tree1.xnb</Output>
+      <Time>2014-11-05T20:11:21.1508929-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Objects\Wall.png</Source>
+      <Name>Sprites\Objects\Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Objects\Wall.xnb</Output>
+      <Time>2014-11-05T20:11:21.1729075-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Null.png</Source>
+      <Name>Sprites\Null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Sprites\Null.xnb</Output>
+      <Time>2014-12-02T10:41:31.3636082-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Monospace.spritefont</Source>
+      <Name>Fonts\Monospace</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\Fonts\Monospace.xnb</Output>
+      <Time>2014-11-05T20:11:19.2995476-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Falling.wav</Source>
+      <Name>SoundEffects\Falling</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Falling.xnb</Output>
+      <Time>2014-11-25T17:53:00.127716-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\MonsterDeath.wav</Source>
+      <Name>SoundEffects\MonsterDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\MonsterDeath.xnb</Output>
+      <Time>2014-11-27T18:40:32.4532688-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\WeaponAttack.wav</Source>
+      <Name>SoundEffects\WeaponAttack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\WeaponAttack.xnb</Output>
+      <Time>2014-11-27T18:40:31.9096167-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\MagicAttack.wav</Source>
+      <Name>SoundEffects\MagicAttack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\MagicAttack.xnb</Output>
+      <Time>2014-11-27T18:40:31.8607046-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\PickUpCoin.wav</Source>
+      <Name>SoundEffects\PickUpCoin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\PickUpCoin.xnb</Output>
+      <Time>2014-11-27T18:40:32.1578082-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select.xnb</Output>
+      <Time>2014-11-27T19:48:01.5343601-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select10.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select10.xnb</Output>
+      <Time>2014-11-27T19:48:01.085829-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select11.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select11.xnb</Output>
+      <Time>2014-11-27T19:48:01.1408505-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select12.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select12.xnb</Output>
+      <Time>2014-11-27T19:48:01.4146893-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select13.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select13.xnb</Output>
+      <Time>2014-11-27T19:48:01.0608078-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select14.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select14.xnb</Output>
+      <Time>2014-11-27T19:48:00.9926136-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select15.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select15.xnb</Output>
+      <Time>2014-11-27T19:48:01.0658121-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select16.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select16.xnb</Output>
+      <Time>2014-11-27T19:48:00.6539487-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select17.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select17.xnb</Output>
+      <Time>2014-11-27T19:48:00.7781263-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select18.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select18.xnb</Output>
+      <Time>2014-11-27T19:48:00.9264542-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select19.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select19.xnb</Output>
+      <Time>2014-11-27T19:48:01.0448029-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select2.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select2.xnb</Output>
+      <Time>2014-11-27T19:48:01.1348503-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select20.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select20.xnb</Output>
+      <Time>2014-11-27T19:48:01.3010496-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select3.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select3.xnb</Output>
+      <Time>2014-11-27T19:48:01.3310644-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select4.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select4.xnb</Output>
+      <Time>2014-11-27T19:48:01.307048-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select5.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select5.xnb</Output>
+      <Time>2014-11-27T19:48:01.3260657-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select6.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select6.xnb</Output>
+      <Time>2014-11-27T19:48:01.3400736-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select7.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select7.xnb</Output>
+      <Time>2014-11-27T19:48:01.3360719-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select8.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select8.xnb</Output>
+      <Time>2014-11-27T19:48:01.4362952-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Blip_Select9.wav</Source>
+      <Name>SoundEffects\Temp\Blip_Select9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Blip_Select9.xnb</Output>
+      <Time>2014-11-27T19:48:01.4553078-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Default.wav</Source>
+      <Name>SoundEffects\Temp\Default</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Default.xnb</Output>
+      <Time>2014-11-27T19:48:01.445304-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion.wav</Source>
+      <Name>SoundEffects\Temp\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion.xnb</Output>
+      <Time>2014-11-27T19:48:01.474325-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion10.wav</Source>
+      <Name>SoundEffects\Temp\Explosion10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion10.xnb</Output>
+      <Time>2014-11-27T19:48:01.545372-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion11.wav</Source>
+      <Name>SoundEffects\Temp\Explosion11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion11.xnb</Output>
+      <Time>2014-11-27T19:48:01.5203508-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion12.wav</Source>
+      <Name>SoundEffects\Temp\Explosion12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion12.xnb</Output>
+      <Time>2014-11-27T19:48:01.6427823-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion13.wav</Source>
+      <Name>SoundEffects\Temp\Explosion13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion13.xnb</Output>
+      <Time>2014-11-27T19:48:01.5683863-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion14.wav</Source>
+      <Name>SoundEffects\Temp\Explosion14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion14.xnb</Output>
+      <Time>2014-11-27T19:48:01.592398-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion15.wav</Source>
+      <Name>SoundEffects\Temp\Explosion15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion15.xnb</Output>
+      <Time>2014-11-27T19:48:01.6768043-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion16.wav</Source>
+      <Name>SoundEffects\Temp\Explosion16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion16.xnb</Output>
+      <Time>2014-11-27T19:48:01.610415-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion17.wav</Source>
+      <Name>SoundEffects\Temp\Explosion17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion17.xnb</Output>
+      <Time>2014-11-27T19:48:01.653784-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion18.wav</Source>
+      <Name>SoundEffects\Temp\Explosion18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion18.xnb</Output>
+      <Time>2014-11-27T19:48:01.6687986-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion19.wav</Source>
+      <Name>SoundEffects\Temp\Explosion19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion19.xnb</Output>
+      <Time>2014-11-27T19:48:01.6818081-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion2.wav</Source>
+      <Name>SoundEffects\Temp\Explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion2.xnb</Output>
+      <Time>2014-11-27T19:48:01.6988194-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion20.wav</Source>
+      <Name>SoundEffects\Temp\Explosion20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion20.xnb</Output>
+      <Time>2014-11-27T19:48:01.7608585-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion3.wav</Source>
+      <Name>SoundEffects\Temp\Explosion3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion3.xnb</Output>
+      <Time>2014-11-27T19:48:01.7358387-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion4.wav</Source>
+      <Name>SoundEffects\Temp\Explosion4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion4.xnb</Output>
+      <Time>2014-11-27T19:48:01.8521394-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion5.wav</Source>
+      <Name>SoundEffects\Temp\Explosion5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion5.xnb</Output>
+      <Time>2014-11-27T19:48:01.7958784-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion6.wav</Source>
+      <Name>SoundEffects\Temp\Explosion6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion6.xnb</Output>
+      <Time>2014-11-27T19:48:01.8018824-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion7.wav</Source>
+      <Name>SoundEffects\Temp\Explosion7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion7.xnb</Output>
+      <Time>2014-11-27T19:48:01.811889-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion8.wav</Source>
+      <Name>SoundEffects\Temp\Explosion8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion8.xnb</Output>
+      <Time>2014-11-27T19:48:01.8931618-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Explosion9.wav</Source>
+      <Name>SoundEffects\Temp\Explosion9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Explosion9.xnb</Output>
+      <Time>2014-11-27T19:48:01.8229014-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump.wav</Source>
+      <Name>SoundEffects\Temp\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump.xnb</Output>
+      <Time>2014-11-27T19:48:01.8601451-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump10.wav</Source>
+      <Name>SoundEffects\Temp\Jump10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump10.xnb</Output>
+      <Time>2014-11-27T19:48:01.8981651-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump11.wav</Source>
+      <Name>SoundEffects\Temp\Jump11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump11.xnb</Output>
+      <Time>2014-11-27T19:48:01.9191842-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump12.wav</Source>
+      <Name>SoundEffects\Temp\Jump12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump12.xnb</Output>
+      <Time>2014-11-27T19:48:02.1966002-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump13.wav</Source>
+      <Name>SoundEffects\Temp\Jump13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump13.xnb</Output>
+      <Time>2014-11-27T19:48:02.1665813-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump14.wav</Source>
+      <Name>SoundEffects\Temp\Jump14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump14.xnb</Output>
+      <Time>2014-11-27T19:48:02.2006019-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump15.wav</Source>
+      <Name>SoundEffects\Temp\Jump15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump15.xnb</Output>
+      <Time>2014-11-27T19:48:02.2056052-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump16.wav</Source>
+      <Name>SoundEffects\Temp\Jump16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump16.xnb</Output>
+      <Time>2014-11-27T19:48:02.2106099-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump17.wav</Source>
+      <Name>SoundEffects\Temp\Jump17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump17.xnb</Output>
+      <Time>2014-11-27T19:48:02.2146107-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump18.wav</Source>
+      <Name>SoundEffects\Temp\Jump18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump18.xnb</Output>
+      <Time>2014-11-27T19:48:02.2186101-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump19.wav</Source>
+      <Name>SoundEffects\Temp\Jump19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump19.xnb</Output>
+      <Time>2014-11-27T19:48:02.2236138-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump2.wav</Source>
+      <Name>SoundEffects\Temp\Jump2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump2.xnb</Output>
+      <Time>2014-11-27T19:48:02.2883737-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump20.wav</Source>
+      <Name>SoundEffects\Temp\Jump20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump20.xnb</Output>
+      <Time>2014-11-27T19:48:02.4269506-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump3.wav</Source>
+      <Name>SoundEffects\Temp\Jump3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump3.xnb</Output>
+      <Time>2014-11-27T19:48:02.4309565-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump4.wav</Source>
+      <Name>SoundEffects\Temp\Jump4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump4.xnb</Output>
+      <Time>2014-11-27T19:48:02.4179451-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump5.wav</Source>
+      <Name>SoundEffects\Temp\Jump5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump5.xnb</Output>
+      <Time>2014-11-27T19:48:02.439962-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump6.wav</Source>
+      <Name>SoundEffects\Temp\Jump6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump6.xnb</Output>
+      <Time>2014-11-27T19:48:02.4489651-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump7.wav</Source>
+      <Name>SoundEffects\Temp\Jump7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump7.xnb</Output>
+      <Time>2014-11-27T19:48:02.4539727-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump8.wav</Source>
+      <Name>SoundEffects\Temp\Jump8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump8.xnb</Output>
+      <Time>2014-11-27T19:48:02.4359617-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Jump9.wav</Source>
+      <Name>SoundEffects\Temp\Jump9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Jump9.xnb</Output>
+      <Time>2014-11-27T19:48:02.4589769-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot.xnb</Output>
+      <Time>2014-11-27T19:48:02.5425249-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot10.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot10.xnb</Output>
+      <Time>2014-11-27T19:48:02.568537-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot11.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot11.xnb</Output>
+      <Time>2014-11-27T19:48:02.5795484-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot12.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot12.xnb</Output>
+      <Time>2014-11-27T19:48:02.5635337-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot13.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot13.xnb</Output>
+      <Time>2014-11-27T19:48:02.5925524-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot14.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot14.xnb</Output>
+      <Time>2014-11-27T19:48:02.6015583-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot15.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot15.xnb</Output>
+      <Time>2014-11-27T19:48:02.6055642-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot16.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot16.xnb</Output>
+      <Time>2014-11-27T19:48:02.6105699-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot17.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot17.xnb</Output>
+      <Time>2014-11-27T19:48:02.6770679-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot18.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot18.xnb</Output>
+      <Time>2014-11-27T19:48:02.6900761-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot19.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot19.xnb</Output>
+      <Time>2014-11-27T19:48:02.6960805-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot2.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot2.xnb</Output>
+      <Time>2014-11-27T19:48:02.7110946-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot20.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot20.xnb</Output>
+      <Time>2014-11-27T19:48:02.7200964-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot3.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot3.xnb</Output>
+      <Time>2014-11-27T19:48:02.7481186-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot4.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot4.xnb</Output>
+      <Time>2014-11-27T19:48:02.7351058-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot5.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot5.xnb</Output>
+      <Time>2014-11-27T19:48:02.7431158-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot6.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot6.xnb</Output>
+      <Time>2014-11-27T19:48:02.8110348-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot7.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot7.xnb</Output>
+      <Time>2014-11-27T19:48:02.8160418-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot8.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot8.xnb</Output>
+      <Time>2014-11-27T19:48:02.8240467-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Laser_Shoot9.wav</Source>
+      <Name>SoundEffects\Temp\Laser_Shoot9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Laser_Shoot9.xnb</Output>
+      <Time>2014-11-27T19:48:02.8480588-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin.xnb</Output>
+      <Time>2014-11-27T19:48:02.8530617-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin10.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin10.xnb</Output>
+      <Time>2014-11-27T19:48:02.8930942-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin11.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin11.xnb</Output>
+      <Time>2014-11-27T19:48:02.868072-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin12.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin12.xnb</Output>
+      <Time>2014-11-27T19:48:02.8880857-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin13.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin13.xnb</Output>
+      <Time>2014-11-27T19:48:02.9721418-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin14.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin14.xnb</Output>
+      <Time>2014-11-27T19:48:02.9631349-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin15.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin15.xnb</Output>
+      <Time>2014-11-27T19:48:02.9781448-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin16.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin16.xnb</Output>
+      <Time>2014-11-27T19:48:03.0001636-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin17.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin17.xnb</Output>
+      <Time>2014-11-27T19:48:02.9941549-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin18.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin18.xnb</Output>
+      <Time>2014-11-27T19:48:03.0461898-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin19.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin19.xnb</Output>
+      <Time>2014-11-27T19:48:03.0211789-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin2.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin2.xnb</Output>
+      <Time>2014-11-27T19:48:03.0261817-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin20.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin20.xnb</Output>
+      <Time>2014-11-27T19:48:03.0912238-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin3.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin3.xnb</Output>
+      <Time>2014-11-27T19:48:03.1342527-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin4.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin4.xnb</Output>
+      <Time>2014-11-27T19:48:03.1122339-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin5.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin5.xnb</Output>
+      <Time>2014-11-27T19:48:03.1452553-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin6.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin6.xnb</Output>
+      <Time>2014-11-27T19:48:03.1402524-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin7.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin7.xnb</Output>
+      <Time>2014-11-27T19:48:03.1612705-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin8.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin8.xnb</Output>
+      <Time>2014-11-27T19:48:03.1702718-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Pickup_Coin9.wav</Source>
+      <Name>SoundEffects\Temp\Pickup_Coin9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Pickup_Coin9.xnb</Output>
+      <Time>2014-11-27T19:48:03.1762758-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup.wav</Source>
+      <Name>SoundEffects\Temp\Powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup.xnb</Output>
+      <Time>2014-11-27T19:48:03.2173076-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup10.wav</Source>
+      <Name>SoundEffects\Temp\Powerup10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup10.xnb</Output>
+      <Time>2014-11-27T19:48:03.2813457-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup11.wav</Source>
+      <Name>SoundEffects\Temp\Powerup11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup11.xnb</Output>
+      <Time>2014-11-27T19:48:03.2753413-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup12.wav</Source>
+      <Name>SoundEffects\Temp\Powerup12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup12.xnb</Output>
+      <Time>2014-11-27T19:48:03.2703426-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup13.wav</Source>
+      <Name>SoundEffects\Temp\Powerup13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup13.xnb</Output>
+      <Time>2014-11-27T19:48:03.292353-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup14.wav</Source>
+      <Name>SoundEffects\Temp\Powerup14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup14.xnb</Output>
+      <Time>2014-11-27T19:48:03.3073652-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup15.wav</Source>
+      <Name>SoundEffects\Temp\Powerup15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup15.xnb</Output>
+      <Time>2014-11-27T19:48:03.3163735-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup16.wav</Source>
+      <Name>SoundEffects\Temp\Powerup16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup16.xnb</Output>
+      <Time>2014-11-27T19:48:03.3213745-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup17.wav</Source>
+      <Name>SoundEffects\Temp\Powerup17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup17.xnb</Output>
+      <Time>2014-11-27T19:48:03.36475-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup18.wav</Source>
+      <Name>SoundEffects\Temp\Powerup18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup18.xnb</Output>
+      <Time>2014-11-27T19:48:03.4337905-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup19.wav</Source>
+      <Name>SoundEffects\Temp\Powerup19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup19.xnb</Output>
+      <Time>2014-11-27T19:48:03.408774-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup2.wav</Source>
+      <Name>SoundEffects\Temp\Powerup2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup2.xnb</Output>
+      <Time>2014-11-27T19:48:03.4287914-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup20.wav</Source>
+      <Name>SoundEffects\Temp\Powerup20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup20.xnb</Output>
+      <Time>2014-11-27T19:48:03.4407956-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup3.wav</Source>
+      <Name>SoundEffects\Temp\Powerup3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup3.xnb</Output>
+      <Time>2014-11-27T19:48:03.4608131-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup4.wav</Source>
+      <Name>SoundEffects\Temp\Powerup4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup4.xnb</Output>
+      <Time>2014-11-27T19:48:03.4658117-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup5.wav</Source>
+      <Name>SoundEffects\Temp\Powerup5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup5.xnb</Output>
+      <Time>2014-11-27T19:48:03.4708192-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup6.wav</Source>
+      <Name>SoundEffects\Temp\Powerup6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup6.xnb</Output>
+      <Time>2014-11-27T19:48:03.5218534-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup7.wav</Source>
+      <Name>SoundEffects\Temp\Powerup7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup7.xnb</Output>
+      <Time>2014-11-27T19:48:03.5558815-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup8.wav</Source>
+      <Name>SoundEffects\Temp\Powerup8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup8.xnb</Output>
+      <Time>2014-11-27T19:48:03.5698856-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Powerup9.wav</Source>
+      <Name>SoundEffects\Temp\Powerup9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Powerup9.xnb</Output>
+      <Time>2014-11-27T19:48:03.6089068-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize.wav</Source>
+      <Name>SoundEffects\Temp\Randomize</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize.xnb</Output>
+      <Time>2014-11-27T19:48:03.6289214-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize10.wav</Source>
+      <Name>SoundEffects\Temp\Randomize10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize10.xnb</Output>
+      <Time>2014-11-27T19:48:03.6369295-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize11.wav</Source>
+      <Name>SoundEffects\Temp\Randomize11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize11.xnb</Output>
+      <Time>2014-11-27T19:48:03.6419286-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize12.wav</Source>
+      <Name>SoundEffects\Temp\Randomize12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize12.xnb</Output>
+      <Time>2014-11-27T19:48:03.6479358-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize13.wav</Source>
+      <Name>SoundEffects\Temp\Randomize13</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize13.xnb</Output>
+      <Time>2014-11-27T19:48:03.9065823-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize14.wav</Source>
+      <Name>SoundEffects\Temp\Randomize14</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize14.xnb</Output>
+      <Time>2014-11-27T19:48:03.7049749-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize15.wav</Source>
+      <Name>SoundEffects\Temp\Randomize15</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize15.xnb</Output>
+      <Time>2014-11-27T19:48:03.7219857-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize16.wav</Source>
+      <Name>SoundEffects\Temp\Randomize16</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize16.xnb</Output>
+      <Time>2014-11-27T19:48:03.9155934-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize17.wav</Source>
+      <Name>SoundEffects\Temp\Randomize17</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize17.xnb</Output>
+      <Time>2014-11-27T19:48:03.928602-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize18.wav</Source>
+      <Name>SoundEffects\Temp\Randomize18</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize18.xnb</Output>
+      <Time>2014-11-27T19:48:03.9205911-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize19.wav</Source>
+      <Name>SoundEffects\Temp\Randomize19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize19.xnb</Output>
+      <Time>2014-11-27T19:48:03.9436073-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize2.wav</Source>
+      <Name>SoundEffects\Temp\Randomize2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize2.xnb</Output>
+      <Time>2014-11-27T19:48:03.9245952-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize20.wav</Source>
+      <Name>SoundEffects\Temp\Randomize20</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize20.xnb</Output>
+      <Time>2014-11-27T19:48:03.937608-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize3.wav</Source>
+      <Name>SoundEffects\Temp\Randomize3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize3.xnb</Output>
+      <Time>2014-11-27T19:48:03.9476099-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize4.wav</Source>
+      <Name>SoundEffects\Temp\Randomize4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize4.xnb</Output>
+      <Time>2014-11-27T19:48:04.0438792-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize5.wav</Source>
+      <Name>SoundEffects\Temp\Randomize5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize5.xnb</Output>
+      <Time>2014-11-27T19:48:04.163959-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize6.wav</Source>
+      <Name>SoundEffects\Temp\Randomize6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize6.xnb</Output>
+      <Time>2014-11-27T19:48:04.1339382-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize7.wav</Source>
+      <Name>SoundEffects\Temp\Randomize7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize7.xnb</Output>
+      <Time>2014-11-27T19:48:04.1289387-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize8.wav</Source>
+      <Name>SoundEffects\Temp\Randomize8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize8.xnb</Output>
+      <Time>2014-11-27T19:48:04.1179277-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Temp\Randomize9.wav</Source>
+      <Name>SoundEffects\Temp\Randomize9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\SoundEffects\Temp\Randomize9.xnb</Output>
+      <Time>2014-11-27T19:48:04.1409489-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{090ABAAE-6503-45B6-8B33-455E1A49F6BC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine TeamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Game Engine Team\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-21T13:08:48.8283995-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+# This file contains the setup logic for your script.
+# Declare any persistent variables or functions you may need in this file.
+snake1.Patrol = [ Game.waypoints[1].Position, Game.waypoints[2].Position, Game.waypoints[3].Position, Game.waypoints[0].Position ]
+snake2.Patrol = [ Game.waypoints[0].Position, Game.waypoints[1].Position, Game.waypoints[2].Position, Game.waypoints[3].Position ]
+
+firedemon1.Patrol = [ Game.waypoints[2].Position ]

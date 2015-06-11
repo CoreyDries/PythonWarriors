@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\bin\Debug\Python Scripting.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\bin\Debug\Python Scripting.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\bin\Debug\Python Scripting.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\obj\Debug\Python Scripting.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\obj\Debug\Python_Scripting.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\obj\Debug\Python Scripting.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\obj\Debug\Python Scripting.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\obj\Debug\Python Scripting.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Python Scripting\bin\Debug\Python Team.exe.config

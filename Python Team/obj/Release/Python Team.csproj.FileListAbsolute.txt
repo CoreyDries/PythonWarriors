@@ -1,0 +1,10 @@
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\bin\Release\Python Team.exe.config
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\bin\Release\Python Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\bin\Release\Python Team.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\bin\Release\Microsoft.Xna.Framework.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\bin\Release\Microsoft.Xna.Framework.xml
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\obj\Release\Python Team.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\obj\Release\Python_Team.Properties.Resources.resources
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\obj\Release\Python Team.csproj.GenerateResource.Cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\obj\Release\Python Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Python Team\obj\Release\Python Team.pdb

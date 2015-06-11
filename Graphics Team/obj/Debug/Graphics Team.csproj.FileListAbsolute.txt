@@ -1,0 +1,18 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\bin\Debug\Graphics Team.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\bin\Debug\Graphics Team.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\bin\Debug\Graphics Team.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\obj\Debug\Graphics Team.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\obj\Debug\Graphics_Team.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\obj\Debug\Graphics Team.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\obj\Debug\Graphics Team.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Graphics Team\obj\Debug\Graphics Team.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Debug\Graphics Team.exe.config
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Debug\Graphics Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Debug\Graphics Team.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Debug\Graphics Team.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Debug\Graphics_Team.Properties.Resources.resources
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Debug\Graphics Team.csproj.GenerateResource.Cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Debug\Graphics Team.exe
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Graphics Team\obj\Debug\Graphics Team.pdb

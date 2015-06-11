@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e22b4c0f-4bf4-4d16-a0b0-a017d0802d06" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://techproprojects.bcit.ca:6363/loginservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LoginService2.wsdl" MetadataType="Wsdl" ID="1b6dd3d1-6fcf-49d1-9b24-37addfa25aca" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?wsdl" />
+    <MetadataFile FileName="LoginService1.disco" MetadataType="Disco" ID="d333d46c-6f65-4fde-8d0a-70089bac3547" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?disco" />
+    <MetadataFile FileName="LoginService3.xsd" MetadataType="Schema" ID="21ec0569-51e9-4977-a8de-2f18b6626e7b" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?xsd=xsd2" />
+    <MetadataFile FileName="LoginService31.xsd" MetadataType="Schema" ID="bdf68a6f-855f-4603-8c2b-08fffc0dfef8" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?xsd=xsd0" />
+    <MetadataFile FileName="LoginService21.wsdl" MetadataType="Wsdl" ID="de179e56-09ca-42d8-a7d2-69d13b47e52c" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="LoginService32.xsd" MetadataType="Schema" ID="e2e93096-bba9-44f3-8327-c4bd5fabd34e" SourceId="1" SourceUrl="http://techproprojects.bcit.ca:6363/LoginService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

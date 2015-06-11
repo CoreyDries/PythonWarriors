@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{5C87689E-CF29-403D-9954-D6570E78810D}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game_Engine_Team</RootNamespace>
+    <AssemblyName>Game Engine Team</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>fcddf223-ab97-4d12-a1cb-8ce34bdfd239</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <HintPath>..\..\..\Team Project\Python Warriors\Python Warriors\Python Team\IronPython\IronPython.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Dynamic">
+      <HintPath>..\Python Team\IronPython\Microsoft.Dynamic.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Scripting, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Python Team\IronPython\Microsoft.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actors\Actor.cs" />
+    <Compile Include="Actors\ActorMovement.cs" />
+    <Compile Include="Actors\EnemyDatabase.cs" />
+    <Compile Include="Actors\Mage.cs" />
+    <Compile Include="Actors\PlayerProxy.cs" />
+    <Compile Include="Actors\Warrior.cs" />
+    <Compile Include="Actors\Rogue.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="CharacterCreate.cs" />
+    <Compile Include="CharacterEdit.cs" />
+    <Compile Include="CharacterSelect.cs" />
+    <Compile Include="Direction.cs" />
+    <Compile Include="Dungeon\BridgeTile.cs" />
+    <Compile Include="Dungeon\DungeonEntities.cs" />
+    <Compile Include="Dungeon\DungeonInfo.cs" />
+    <Compile Include="Dungeon\DungeonLifeCycle.cs" />
+    <Compile Include="Dungeon\DungeonProxy.cs" />
+    <Compile Include="Dungeon\DungeonSerialization.cs" />
+    <Compile Include="Dungeon\DungeonTiles.cs" />
+    <Compile Include="Dungeon\GroundTile.cs" />
+    <Compile Include="Dungeon\Hazard.cs" />
+    <Compile Include="Dungeon\Loot.cs" />
+    <Compile Include="Dungeon\PitTile.cs" />
+    <Compile Include="Dungeon\Trap.cs" />
+    <Compile Include="Dungeon\WallTile.cs" />
+    <Compile Include="Dungeon\Waypoint.cs" />
+    <Compile Include="EditEnvironment.cs" />
+    <Compile Include="EditToolbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditToolbox.Designer.cs">
+      <DependentUpon>EditToolbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EndPointRequest.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Equipment\Equipment.cs" />
+    <Compile Include="Equipment\EquipmentDatabase.cs" />
+    <Compile Include="Equipment\EquipmentSet.cs" />
+    <Compile Include="Equipment\Helmet.cs" />
+    <Compile Include="Equipment\Leggings.cs" />
+    <Compile Include="Equipment\Shirt.cs" />
+    <Compile Include="Equipment\Stats.cs" />
+    <Compile Include="Equipment\Weapon.cs" />
+    <Compile Include="IEntity.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="InventorySerialization.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="Particle.cs" />
+    <Compile Include="Actors\Player.cs" />
+    <Compile Include="Dungeon\Dungeon.cs" />
+    <Compile Include="GameState.cs" />
+    <Compile Include="MainController.cs" />
+    <Compile Include="Actors\Enemy.cs" />
+    <Compile Include="Actors\EnemyPathfinding.cs" />
+    <Compile Include="Actors\EnemyTarget.cs" />
+    <Compile Include="PlayEnvironment.cs" />
+    <Compile Include="ppLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ppLauncher.Designer.cs">
+      <DependentUpon>ppLauncher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Projectile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Results.cs" />
+    <Compile Include="Screen.cs" />
+    <Compile Include="SearchBase.cs" />
+    <Compile Include="ServerCommunicationDaemon.cs" />
+    <Compile Include="Sounds\SoundDaemon.cs" />
+    <Compile Include="StoreEnvironment.cs" />
+    <Compile Include="StringExtentions.cs" />
+    <Compile Include="TextParticle.cs" />
+    <Compile Include="Textures\AnimatedTexture.cs" />
+    <Compile Include="Textures\NullSprite.cs" />
+    <Compile Include="Textures\TextureDaemon.cs" />
+    <Compile Include="Textures\VectorSprite.cs" />
+    <Compile Include="Textures\PlayerSprite.cs" />
+    <Compile Include="Textures\SmartTexture.cs" />
+    <Compile Include="Textures\Sprite.cs" />
+    <Compile Include="Textures\ITexture.cs" />
+    <Compile Include="Textures\AssetLoader.cs" />
+    <Compile Include="Textures\GroundTexture.cs" />
+    <Compile Include="Textures\PitTexture.cs" />
+    <Compile Include="Dungeon\Tile.cs" />
+    <Compile Include="Textures\WallTexture.cs" />
+    <Compile Include="TracerProjectile.cs" />
+    <Compile Include="TrailProjectile.cs" />
+    <Compile Include="User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Projectile.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controls\Controls.csproj">
+      <Project>{b50766cf-1bea-4e67-89d8-8b202bba33bd}</Project>
+      <Name>Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Graphics Team\Graphics Team.csproj">
+      <Project>{3869966c-0ddf-41b1-bd86-c55a7462cbc4}</Project>
+      <Name>Graphics Team</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Python Team\Python Team.csproj">
+      <Project>{91a3718f-2fe1-462e-8a28-c348d1792241}</Project>
+      <Name>Python Team</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game Engine TeamContent\Game Engine TeamContent.contentproj">
+      <Name>Game_Engine_TeamContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditToolbox.resx">
+      <DependentUpon>EditToolbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ppLauncher.resx">
+      <DependentUpon>ppLauncher.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\bin\x86\Release\Controls.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\bin\x86\Release\Controls.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Release\Controls.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Release\Controls.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Release\Controls.pdb

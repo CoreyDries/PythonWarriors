@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Controls\obj\x86\Debug\Controls.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\COMP 4952 Project\Controls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\bin\x86\Debug\Controls.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\bin\x86\Debug\Controls.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Debug\Controls.dll
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Debug\Controls.pdb
+C:\Users\Andrew\Source\Workspaces\Python Warriors\Python Warriors\Controls\obj\x86\Debug\Controls.csprojResolveAssemblyReference.cache
